@@ -149,7 +149,7 @@ public class HttpHandler extends AbstractHandler {
      * handles a <code>put</code> request.
      */
     protected ApiResponse doPut(ApiRequest request) throws RocksDBException {
-        System.out.println("insert operation "+request.toString());
+
         String name = request.getName();
         List<byte[]> keys = decodeBase64(request.getKeys());
         List<byte[]> values = decodeBase64(request.getValues());
