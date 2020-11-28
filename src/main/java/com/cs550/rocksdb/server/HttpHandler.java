@@ -1,4 +1,4 @@
-package com.ranksays.rocksdb.server;
+package com.cs550.rocksdb.server;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.logging.log4j.LogManager;

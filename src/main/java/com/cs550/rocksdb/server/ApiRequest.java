@@ -1,4 +1,4 @@
-package com.ranksays.rocksdb.server;
+package com.cs550.rocksdb.server;
 
 import java.util.ArrayList;
 import java.util.List;

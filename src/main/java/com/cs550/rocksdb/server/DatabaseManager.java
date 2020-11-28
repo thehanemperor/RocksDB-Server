@@ -1,4 +1,4 @@
-package com.ranksays.rocksdb.server;
+package com.cs550.rocksdb.server;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
