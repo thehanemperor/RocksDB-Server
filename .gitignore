@@ -9,6 +9,7 @@ data/
 
 # IntelliJ
 .idea/
+.idea
 *.iml
 
 # Eclipse

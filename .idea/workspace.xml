@@ -37,7 +37,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3b8d58f4-c687-4a59-ba25-8881b34322a0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/cs550/rocksdb/server/HttpHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cs550/rocksdb/server/HttpHandler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,19 +105,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.RocksDB" />
@@ -139,7 +125,8 @@
       <option name="presentableId" value="Default" />
       <updated>1606537760500</updated>
       <workItem from="1606537761669" duration="7110000" />
-      <workItem from="1606556721411" duration="488000" />
+      <workItem from="1606556721411" duration="1221000" />
+      <workItem from="1606624278849" duration="295000" />
     </task>
     <servers />
   </component>
@@ -159,29 +146,29 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="666" y="208" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606556869148">
+    <state x="666" y="208" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606624407337">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="666" y="208" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/-3840.0.2560.1413/0.0.2560.1040@0.0.2560.1040" timestamp="1606556869148" />
+    <state x="666" y="208" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/-3840.0.2560.1413/0.0.2560.1040@0.0.2560.1040" timestamp="1606624407337" />
     <state x="992" y="308" key="FileChooserDialogImpl" timestamp="1606557065270">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="992" y="308" key="FileChooserDialogImpl/-3840.0.2560.1413/0.0.2560.1040@0.0.2560.1040" timestamp="1606557065270" />
-    <state width="1707" height="253" key="GridCell.Tab.0.bottom" timestamp="1606557208460">
+    <state width="1707" height="253" key="GridCell.Tab.0.bottom" timestamp="1606624573179">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1707" height="253" key="GridCell.Tab.0.bottom/-3840.0.2560.1413/0.0.2560.1040@0.0.2560.1040" timestamp="1606557208460" />
-    <state width="1707" height="253" key="GridCell.Tab.0.center" timestamp="1606557208460">
+    <state width="1707" height="253" key="GridCell.Tab.0.bottom/-3840.0.2560.1413/0.0.2560.1040@0.0.2560.1040" timestamp="1606624573179" />
+    <state width="1707" height="253" key="GridCell.Tab.0.center" timestamp="1606624573179">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1707" height="253" key="GridCell.Tab.0.center/-3840.0.2560.1413/0.0.2560.1040@0.0.2560.1040" timestamp="1606557208460" />
-    <state width="1707" height="253" key="GridCell.Tab.0.left" timestamp="1606557208460">
+    <state width="1707" height="253" key="GridCell.Tab.0.center/-3840.0.2560.1413/0.0.2560.1040@0.0.2560.1040" timestamp="1606624573179" />
+    <state width="1707" height="253" key="GridCell.Tab.0.left" timestamp="1606624573179">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1707" height="253" key="GridCell.Tab.0.left/-3840.0.2560.1413/0.0.2560.1040@0.0.2560.1040" timestamp="1606557208460" />
-    <state width="1707" height="253" key="GridCell.Tab.0.right" timestamp="1606557208460">
+    <state width="1707" height="253" key="GridCell.Tab.0.left/-3840.0.2560.1413/0.0.2560.1040@0.0.2560.1040" timestamp="1606624573179" />
+    <state width="1707" height="253" key="GridCell.Tab.0.right" timestamp="1606624573179">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="1707" height="253" key="GridCell.Tab.0.right/-3840.0.2560.1413/0.0.2560.1040@0.0.2560.1040" timestamp="1606557208460" />
+    <state width="1707" height="253" key="GridCell.Tab.0.right/-3840.0.2560.1413/0.0.2560.1040@0.0.2560.1040" timestamp="1606624573179" />
   </component>
 </project>
