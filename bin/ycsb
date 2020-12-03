@@ -97,7 +97,7 @@ DATABASES = {
     "rest"         : "site.ycsb.webservice.rest.RestClient",
     "riak"         : "site.ycsb.db.riak.RiakKVClient",
     "rocksdb"      : "site.ycsb.db.rocksdb.RocksDBClient",
-    "rocksdbserver": "site.ycsb.db.rocksdbserver.RocksDBServerClient"
+    "rocksdbserver": "site.ycsb.db.rocksdbserver.RocksDBServerClient",
     "s3"           : "site.ycsb.db.S3Client",
     "solr"         : "site.ycsb.db.solr.SolrClient",
     "solr6"        : "site.ycsb.db.solr6.SolrClient",
