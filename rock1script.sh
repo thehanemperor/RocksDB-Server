@@ -1,11 +1,4 @@
  #!/bin/bash
- 
- for i in 1 2 3 4 5
- do 
- echo "threads 10 $i"
- ./bin/ycsb run rocksdbserver -s -P workloads/workloadb -p operationcount=100000 -threads 10 >> testResult/threads/workload2/rocksDB100000-threads10.txt 
- done
-
 echo "sleep..."
 sleep 3
 

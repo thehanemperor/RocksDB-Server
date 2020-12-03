@@ -1,0 +1,548 @@
+[OVERALL], RunTime(ms), 7795
+[OVERALL], Throughput(ops/sec), 12828.736369467608
+[TOTAL_GCS_G1_Young_Generation], Count, 7
+[TOTAL_GC_TIME_G1_Young_Generation], Time(ms), 850
+[TOTAL_GC_TIME_%_G1_Young_Generation], Time(%), 10.904425914047467
+[TOTAL_GCS_G1_Old_Generation], Count, 0
+[TOTAL_GC_TIME_G1_Old_Generation], Time(ms), 0
+[TOTAL_GC_TIME_%_G1_Old_Generation], Time(%), 0.0
+[TOTAL_GCs], Count, 7
+[TOTAL_GC_TIME], Time(ms), 850
+[TOTAL_GC_TIME_%], Time(%), 10.904425914047467
+[READ], Operations, 93872
+[READ], AverageLatency(us), 6498.662870717573
+[READ], MinLatency(us), 212
+[READ], MaxLatency(us), 303359
+[READ], 95thPercentileLatency(us), 37503
+[READ], 99thPercentileLatency(us), 72703
+[READ], Return=OK, 93872
+[READ], Return=ERROR, 978
+[UPDATE-FAILED], Operations, 85
+[UPDATE-FAILED], AverageLatency(us), 21132.282352941176
+[UPDATE-FAILED], MinLatency(us), 10664
+[UPDATE-FAILED], MaxLatency(us), 122047
+[UPDATE-FAILED], 95thPercentileLatency(us), 35359
+[UPDATE-FAILED], 99thPercentileLatency(us), 121599
+[CLEANUP], Operations, 100
+[CLEANUP], AverageLatency(us), 1.91
+[CLEANUP], MinLatency(us), 0
+[CLEANUP], MaxLatency(us), 42
+[CLEANUP], 95thPercentileLatency(us), 3
+[CLEANUP], 99thPercentileLatency(us), 4
+[UPDATE], Operations, 5065
+[UPDATE], AverageLatency(us), 11296.027443237906
+[UPDATE], MinLatency(us), 535
+[UPDATE], MaxLatency(us), 304127
+[UPDATE], 95thPercentileLatency(us), 55743
+[UPDATE], 99thPercentileLatency(us), 108415
+[UPDATE], Return=OK, 5065
+[UPDATE], Return=ERROR, 85
+[READ-FAILED], Operations, 978
+[READ-FAILED], AverageLatency(us), 19797.815950920245
+[READ-FAILED], MinLatency(us), 9128
+[READ-FAILED], MaxLatency(us), 136319
+[READ-FAILED], 95thPercentileLatency(us), 35807
+[READ-FAILED], 99thPercentileLatency(us), 121535
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+[OVERALL], RunTime(ms), 10932
+[OVERALL], Throughput(ops/sec), 9147.457006952067
+[TOTAL_GCS_G1_Young_Generation], Count, 4
+[TOTAL_GC_TIME_G1_Young_Generation], Time(ms), 388
+[TOTAL_GC_TIME_%_G1_Young_Generation], Time(%), 3.549213318697402
+[TOTAL_GCS_G1_Old_Generation], Count, 0
+[TOTAL_GC_TIME_G1_Old_Generation], Time(ms), 0
+[TOTAL_GC_TIME_%_G1_Old_Generation], Time(%), 0.0
+[TOTAL_GCs], Count, 4
+[TOTAL_GC_TIME], Time(ms), 388
+[TOTAL_GC_TIME_%], Time(%), 3.549213318697402
+[READ], Operations, 73462
+[READ], AverageLatency(us), 5954.566156652419
+[READ], MinLatency(us), 238
+[READ], MaxLatency(us), 282111
+[READ], 95thPercentileLatency(us), 25439
+[READ], 99thPercentileLatency(us), 58527
+[READ], Return=OK, 73462
+[READ], Return=ERROR, 21515
+[UPDATE-FAILED], Operations, 1393
+[UPDATE-FAILED], AverageLatency(us), 21870.285714285714
+[UPDATE-FAILED], MinLatency(us), 8232
+[UPDATE-FAILED], MaxLatency(us), 124927
+[UPDATE-FAILED], 95thPercentileLatency(us), 45375
+[UPDATE-FAILED], 99thPercentileLatency(us), 64415
+[CLEANUP], Operations, 100
+[CLEANUP], AverageLatency(us), 1.99
+[CLEANUP], MinLatency(us), 0
+[CLEANUP], MaxLatency(us), 12
+[CLEANUP], 95thPercentileLatency(us), 5
+[CLEANUP], 99thPercentileLatency(us), 8
+[READ-FAILED], Operations, 21515
+[READ-FAILED], AverageLatency(us), 20563.727631884733
+[READ-FAILED], MinLatency(us), 6624
+[READ-FAILED], MaxLatency(us), 298239
+[READ-FAILED], 95thPercentileLatency(us), 38879
+[READ-FAILED], 99thPercentileLatency(us), 59839
+[UPDATE], Operations, 3630
+[UPDATE], AverageLatency(us), 11293.49779614325
+[UPDATE], MinLatency(us), 598
+[UPDATE], MaxLatency(us), 303871
+[UPDATE], 95thPercentileLatency(us), 42047
+[UPDATE], 99thPercentileLatency(us), 130687
+[UPDATE], Return=OK, 3630
+[UPDATE], Return=ERROR, 1393
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+[OVERALL], RunTime(ms), 11222
+[OVERALL], Throughput(ops/sec), 8911.067545891998
+[TOTAL_GCS_G1_Young_Generation], Count, 4
+[TOTAL_GC_TIME_G1_Young_Generation], Time(ms), 547
+[TOTAL_GC_TIME_%_G1_Young_Generation], Time(%), 4.8743539476029225
+[TOTAL_GCS_G1_Old_Generation], Count, 0
+[TOTAL_GC_TIME_G1_Old_Generation], Time(ms), 0
+[TOTAL_GC_TIME_%_G1_Old_Generation], Time(%), 0.0
+[TOTAL_GCs], Count, 4
+[TOTAL_GC_TIME], Time(ms), 547
+[TOTAL_GC_TIME_%], Time(%), 4.8743539476029225
+[READ], Operations, 64317
+[READ], AverageLatency(us), 4487.22490165897
+[READ], MinLatency(us), 216
+[READ], MaxLatency(us), 350463
+[READ], 95thPercentileLatency(us), 14495
+[READ], 99thPercentileLatency(us), 47935
+[READ], Return=OK, 64317
+[READ], Return=ERROR, 30762
+[UPDATE-FAILED], Operations, 2027
+[UPDATE-FAILED], AverageLatency(us), 22718.705476073013
+[UPDATE-FAILED], MinLatency(us), 8816
+[UPDATE-FAILED], MaxLatency(us), 116351
+[UPDATE-FAILED], 95thPercentileLatency(us), 41983
+[UPDATE-FAILED], 99thPercentileLatency(us), 71423
+[CLEANUP], Operations, 100
+[CLEANUP], AverageLatency(us), 1.65
+[CLEANUP], MinLatency(us), 0
+[CLEANUP], MaxLatency(us), 16
+[CLEANUP], 95thPercentileLatency(us), 3
+[CLEANUP], 99thPercentileLatency(us), 4
+[UPDATE], Operations, 2894
+[UPDATE], AverageLatency(us), 7926.770559778853
+[UPDATE], MinLatency(us), 590
+[UPDATE], MaxLatency(us), 348927
+[UPDATE], 95thPercentileLatency(us), 17631
+[UPDATE], 99thPercentileLatency(us), 66303
+[UPDATE], Return=OK, 2894
+[UPDATE], Return=ERROR, 2027
+[READ-FAILED], Operations, 30762
+[READ-FAILED], AverageLatency(us), 21797.906508029388
+[READ-FAILED], MinLatency(us), 8052
+[READ-FAILED], MaxLatency(us), 99839
+[READ-FAILED], 95thPercentileLatency(us), 40415
+[READ-FAILED], 99thPercentileLatency(us), 58687
+[OVERALL], RunTime(ms), 7971
+[OVERALL], Throughput(ops/sec), 12545.477355413374
+[TOTAL_GCS_G1_Young_Generation], Count, 5
+[TOTAL_GC_TIME_G1_Young_Generation], Time(ms), 909
+[TOTAL_GC_TIME_%_G1_Young_Generation], Time(%), 11.403838916070756
+[TOTAL_GCS_G1_Old_Generation], Count, 0
+[TOTAL_GC_TIME_G1_Old_Generation], Time(ms), 0
+[TOTAL_GC_TIME_%_G1_Old_Generation], Time(%), 0.0
+[TOTAL_GCs], Count, 5
+[TOTAL_GC_TIME], Time(ms), 909
+[TOTAL_GC_TIME_%], Time(%), 11.403838916070756
+[READ], Operations, 90334
+[READ], AverageLatency(us), 6216.99545021808
+[READ], MinLatency(us), 244
+[READ], MaxLatency(us), 513279
+[READ], 95thPercentileLatency(us), 24719
+[READ], 99thPercentileLatency(us), 62047
+[READ], Return=OK, 90334
+[READ], Return=ERROR, 4613
+[UPDATE-FAILED], Operations, 313
+[UPDATE-FAILED], AverageLatency(us), 19607.897763578276
+[UPDATE-FAILED], MinLatency(us), 11448
+[UPDATE-FAILED], MaxLatency(us), 75839
+[UPDATE-FAILED], 95thPercentileLatency(us), 34527
+[UPDATE-FAILED], 99thPercentileLatency(us), 47103
+[CLEANUP], Operations, 100
+[CLEANUP], AverageLatency(us), 1.92
+[CLEANUP], MinLatency(us), 0
+[CLEANUP], MaxLatency(us), 26
+[CLEANUP], 95thPercentileLatency(us), 3
+[CLEANUP], 99thPercentileLatency(us), 5
+[UPDATE], Operations, 4740
+[UPDATE], AverageLatency(us), 11564.034388185653
+[UPDATE], MinLatency(us), 557
+[UPDATE], MaxLatency(us), 506879
+[UPDATE], 95thPercentileLatency(us), 34719
+[UPDATE], 99thPercentileLatency(us), 103295
+[UPDATE], Return=OK, 4740
+[UPDATE], Return=ERROR, 313
+[READ-FAILED], Operations, 4613
+[READ-FAILED], AverageLatency(us), 18727.73639713852
+[READ-FAILED], MinLatency(us), 9392
+[READ-FAILED], MaxLatency(us), 112511
+[READ-FAILED], 95thPercentileLatency(us), 33471
+[READ-FAILED], 99thPercentileLatency(us), 48959
+[OVERALL], RunTime(ms), 11360
+[OVERALL], Throughput(ops/sec), 8802.81690140845
+[TOTAL_GCS_G1_Young_Generation], Count, 5
+[TOTAL_GC_TIME_G1_Young_Generation], Time(ms), 1202
+[TOTAL_GC_TIME_%_G1_Young_Generation], Time(%), 10.580985915492958
+[TOTAL_GCS_G1_Old_Generation], Count, 0
+[TOTAL_GC_TIME_G1_Old_Generation], Time(ms), 0
+[TOTAL_GC_TIME_%_G1_Old_Generation], Time(%), 0.0
+[TOTAL_GCs], Count, 5
+[TOTAL_GC_TIME], Time(ms), 1202
+[TOTAL_GC_TIME_%], Time(%), 10.580985915492958
+[READ], Operations, 75735
+[READ], AverageLatency(us), 6791.822261834027
+[READ], MinLatency(us), 224
+[READ], MaxLatency(us), 699903
+[READ], 95thPercentileLatency(us), 33535
+[READ], 99thPercentileLatency(us), 68607
+[READ], Return=OK, 75735
+[READ], Return=ERROR, 19199
+[UPDATE-FAILED], Operations, 1349
+[UPDATE-FAILED], AverageLatency(us), 20697.42624166049
+[UPDATE-FAILED], MinLatency(us), 8736
+[UPDATE-FAILED], MaxLatency(us), 704511
+[UPDATE-FAILED], 95thPercentileLatency(us), 36351
+[UPDATE-FAILED], 99thPercentileLatency(us), 52703
+[CLEANUP], Operations, 100
+[CLEANUP], AverageLatency(us), 2.33
+[CLEANUP], MinLatency(us), 0
+[CLEANUP], MaxLatency(us), 50
+[CLEANUP], 95thPercentileLatency(us), 3
+[CLEANUP], 99thPercentileLatency(us), 14
+[UPDATE], Operations, 3717
+[UPDATE], AverageLatency(us), 12522.44686575195
+[UPDATE], MinLatency(us), 586
+[UPDATE], MaxLatency(us), 332543
+[UPDATE], 95thPercentileLatency(us), 53759
+[UPDATE], 99thPercentileLatency(us), 113855
+[UPDATE], Return=OK, 3717
+[UPDATE], Return=ERROR, 1349
+[READ-FAILED], Operations, 19199
+[READ-FAILED], AverageLatency(us), 20820.990884941923
+[READ-FAILED], MinLatency(us), 9640
+[READ-FAILED], MaxLatency(us), 707583
+[READ-FAILED], 95thPercentileLatency(us), 36191
+[READ-FAILED], 99thPercentileLatency(us), 51263
+[OVERALL], RunTime(ms), 9738
+[OVERALL], Throughput(ops/sec), 10269.04908605463
+[TOTAL_GCS_G1_Young_Generation], Count, 11
+[TOTAL_GC_TIME_G1_Young_Generation], Time(ms), 777
+[TOTAL_GC_TIME_%_G1_Young_Generation], Time(%), 7.979051139864449
+[TOTAL_GCS_G1_Old_Generation], Count, 0
+[TOTAL_GC_TIME_G1_Old_Generation], Time(ms), 0
+[TOTAL_GC_TIME_%_G1_Old_Generation], Time(%), 0.0
+[TOTAL_GCs], Count, 11
+[TOTAL_GC_TIME], Time(ms), 777
+[TOTAL_GC_TIME_%], Time(%), 7.979051139864449
+[READ], Operations, 77996
+[READ], AverageLatency(us), 5788.506269552285
+[READ], MinLatency(us), 228
+[READ], MaxLatency(us), 396799
+[READ], 95thPercentileLatency(us), 24831
+[READ], 99thPercentileLatency(us), 56927
+[READ], Return=OK, 77996
+[READ], Return=ERROR, 16978
+[UPDATE-FAILED], Operations, 1105
+[UPDATE-FAILED], AverageLatency(us), 21480.264253393667
+[UPDATE-FAILED], MinLatency(us), 8816
+[UPDATE-FAILED], MaxLatency(us), 90623
+[UPDATE-FAILED], 95thPercentileLatency(us), 43839
+[UPDATE-FAILED], 99thPercentileLatency(us), 64991
+[CLEANUP], Operations, 100
+[CLEANUP], AverageLatency(us), 2.15
+[CLEANUP], MinLatency(us), 0
+[CLEANUP], MaxLatency(us), 13
+[CLEANUP], 95thPercentileLatency(us), 4
+[CLEANUP], 99thPercentileLatency(us), 9
+[UPDATE], Operations, 3921
+[UPDATE], AverageLatency(us), 11071.009436368273
+[UPDATE], MinLatency(us), 597
+[UPDATE], MaxLatency(us), 395775
+[UPDATE], 95thPercentileLatency(us), 42015
+[UPDATE], 99thPercentileLatency(us), 84671
+[UPDATE], Return=OK, 3921
+[UPDATE], Return=ERROR, 1105
+[READ-FAILED], Operations, 16978
+[READ-FAILED], AverageLatency(us), 21177.647543880317
+[READ-FAILED], MinLatency(us), 8544
+[READ-FAILED], MaxLatency(us), 155519
+[READ-FAILED], 95thPercentileLatency(us), 42975
+[READ-FAILED], 99thPercentileLatency(us), 67967
+[OVERALL], RunTime(ms), 11020
+[OVERALL], Throughput(ops/sec), 9074.410163339382
+[TOTAL_GCS_G1_Young_Generation], Count, 6
+[TOTAL_GC_TIME_G1_Young_Generation], Time(ms), 1349
+[TOTAL_GC_TIME_%_G1_Young_Generation], Time(%), 12.241379310344827
+[TOTAL_GCS_G1_Old_Generation], Count, 0
+[TOTAL_GC_TIME_G1_Old_Generation], Time(ms), 0
+[TOTAL_GC_TIME_%_G1_Old_Generation], Time(%), 0.0
+[TOTAL_GCs], Count, 6
+[TOTAL_GC_TIME], Time(ms), 1349
+[TOTAL_GC_TIME_%], Time(%), 12.241379310344827
+[READ], Operations, 72633
+[READ], AverageLatency(us), 5974.575619897292
+[READ], MinLatency(us), 223
+[READ], MaxLatency(us), 549887
+[READ], 95thPercentileLatency(us), 21087
+[READ], 99thPercentileLatency(us), 53567
+[READ], Return=OK, 72633
+[READ], Return=ERROR, 22301
+[UPDATE-FAILED], Operations, 1531
+[UPDATE-FAILED], AverageLatency(us), 22768.06792945787
+[UPDATE-FAILED], MinLatency(us), 10824
+[UPDATE-FAILED], MaxLatency(us), 482815
+[UPDATE-FAILED], 95thPercentileLatency(us), 38207
+[UPDATE-FAILED], 99thPercentileLatency(us), 67391
+[CLEANUP], Operations, 100
+[CLEANUP], AverageLatency(us), 2.13
+[CLEANUP], MinLatency(us), 0
+[CLEANUP], MaxLatency(us), 22
+[CLEANUP], 95thPercentileLatency(us), 3
+[CLEANUP], 99thPercentileLatency(us), 18
+[UPDATE], Operations, 3535
+[UPDATE], AverageLatency(us), 11459.393493635078
+[UPDATE], MinLatency(us), 604
+[UPDATE], MaxLatency(us), 537599
+[UPDATE], 95thPercentileLatency(us), 33439
+[UPDATE], 99thPercentileLatency(us), 83519
+[UPDATE], Return=OK, 3535
+[UPDATE], Return=ERROR, 1531
+[READ-FAILED], Operations, 22301
+[READ-FAILED], AverageLatency(us), 21773.075826196135
+[READ-FAILED], MinLatency(us), 8360
+[READ-FAILED], MaxLatency(us), 482815
+[READ-FAILED], 95thPercentileLatency(us), 37375
+[READ-FAILED], 99thPercentileLatency(us), 56159
+[OVERALL], RunTime(ms), 7621
+[OVERALL], Throughput(ops/sec), 13121.63758037003
+[TOTAL_GCS_G1_Young_Generation], Count, 5
+[TOTAL_GC_TIME_G1_Young_Generation], Time(ms), 650
+[TOTAL_GC_TIME_%_G1_Young_Generation], Time(%), 8.52906442724052
+[TOTAL_GCS_G1_Old_Generation], Count, 0
+[TOTAL_GC_TIME_G1_Old_Generation], Time(ms), 0
+[TOTAL_GC_TIME_%_G1_Old_Generation], Time(%), 0.0
+[TOTAL_GCs], Count, 5
+[TOTAL_GC_TIME], Time(ms), 650
+[TOTAL_GC_TIME_%], Time(%), 8.52906442724052
+[READ], Operations, 83635
+[READ], AverageLatency(us), 4728.843199617385
+[READ], MinLatency(us), 237
+[READ], MaxLatency(us), 335615
+[READ], 95thPercentileLatency(us), 11791
+[READ], 99thPercentileLatency(us), 55295
+[READ], Return=OK, 83635
+[READ], Return=ERROR, 11429
+[UPDATE-FAILED], Operations, 747
+[UPDATE-FAILED], AverageLatency(us), 20582.81124497992
+[UPDATE-FAILED], MinLatency(us), 9696
+[UPDATE-FAILED], MaxLatency(us), 73983
+[UPDATE-FAILED], 95thPercentileLatency(us), 38047
+[UPDATE-FAILED], 99thPercentileLatency(us), 51391
+[CLEANUP], Operations, 100
+[CLEANUP], AverageLatency(us), 1.85
+[CLEANUP], MinLatency(us), 0
+[CLEANUP], MaxLatency(us), 32
+[CLEANUP], 95thPercentileLatency(us), 3
+[CLEANUP], 99thPercentileLatency(us), 5
+[UPDATE], Operations, 4189
+[UPDATE], AverageLatency(us), 8879.127476724756
+[UPDATE], MinLatency(us), 564
+[UPDATE], MaxLatency(us), 332031
+[UPDATE], 95thPercentileLatency(us), 18943
+[UPDATE], 99thPercentileLatency(us), 89791
+[UPDATE], Return=OK, 4189
+[UPDATE], Return=ERROR, 747
+[READ-FAILED], Operations, 11429
+[READ-FAILED], AverageLatency(us), 20283.346574503455
+[READ-FAILED], MinLatency(us), 9088
+[READ-FAILED], MaxLatency(us), 110143
+[READ-FAILED], 95thPercentileLatency(us), 38207
+[READ-FAILED], 99thPercentileLatency(us), 53887
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+Cannot assign requested address (connect failed)
+[OVERALL], RunTime(ms), 11903
+[OVERALL], Throughput(ops/sec), 8401.243384020836
+[TOTAL_GCS_G1_Young_Generation], Count, 11
+[TOTAL_GC_TIME_G1_Young_Generation], Time(ms), 863
+[TOTAL_GC_TIME_%_G1_Young_Generation], Time(%), 7.250273040409981
+[TOTAL_GCS_G1_Old_Generation], Count, 0
+[TOTAL_GC_TIME_G1_Old_Generation], Time(ms), 0
+[TOTAL_GC_TIME_%_G1_Old_Generation], Time(%), 0.0
+[TOTAL_GCs], Count, 11
+[TOTAL_GC_TIME], Time(ms), 863
+[TOTAL_GC_TIME_%], Time(%), 7.250273040409981
+[READ], Operations, 76458
+[READ], AverageLatency(us), 8205.278100394988
+[READ], MinLatency(us), 229
+[READ], MaxLatency(us), 1093631
+[READ], 95thPercentileLatency(us), 45503
+[READ], 99thPercentileLatency(us), 74303
+[READ], Return=OK, 76458
+[READ], Return=ERROR, 18571
+[UPDATE-FAILED], Operations, 1254
+[UPDATE-FAILED], AverageLatency(us), 21456.510366826154
+[UPDATE-FAILED], MinLatency(us), 10672
+[UPDATE-FAILED], MaxLatency(us), 184063
+[UPDATE-FAILED], 95thPercentileLatency(us), 41119
+[UPDATE-FAILED], 99thPercentileLatency(us), 59455
+[CLEANUP], Operations, 100
+[CLEANUP], AverageLatency(us), 1.75
+[CLEANUP], MinLatency(us), 0
+[CLEANUP], MaxLatency(us), 8
+[CLEANUP], 95thPercentileLatency(us), 3
+[CLEANUP], 99thPercentileLatency(us), 4
+[UPDATE], Operations, 3717
+[UPDATE], AverageLatency(us), 14427.459779391982
+[UPDATE], MinLatency(us), 600
+[UPDATE], MaxLatency(us), 363007
+[UPDATE], 95thPercentileLatency(us), 64159
+[UPDATE], 99thPercentileLatency(us), 104575
+[UPDATE], Return=OK, 3717
+[UPDATE], Return=ERROR, 1254
+[READ-FAILED], Operations, 18571
+[READ-FAILED], AverageLatency(us), 20979.95627591406
+[READ-FAILED], MinLatency(us), 8992
+[READ-FAILED], MaxLatency(us), 190719
+[READ-FAILED], 95thPercentileLatency(us), 38527
+[READ-FAILED], 99thPercentileLatency(us), 71871
+[OVERALL], RunTime(ms), 10769
+[OVERALL], Throughput(ops/sec), 9285.913269570063
+[TOTAL_GCS_G1_Young_Generation], Count, 12
+[TOTAL_GC_TIME_G1_Young_Generation], Time(ms), 1004
+[TOTAL_GC_TIME_%_G1_Young_Generation], Time(%), 9.323056922648343
+[TOTAL_GCS_G1_Old_Generation], Count, 0
+[TOTAL_GC_TIME_G1_Old_Generation], Time(ms), 0
+[TOTAL_GC_TIME_%_G1_Old_Generation], Time(%), 0.0
+[TOTAL_GCs], Count, 12
+[TOTAL_GC_TIME], Time(ms), 1004
+[TOTAL_GC_TIME_%], Time(%), 9.323056922648343
+[READ], Operations, 72282
+[READ], AverageLatency(us), 5650.43923798456
+[READ], MinLatency(us), 212
+[READ], MaxLatency(us), 360703
+[READ], 95thPercentileLatency(us), 23087
+[READ], 99thPercentileLatency(us), 53183
+[READ], Return=OK, 72282
+[READ], Return=ERROR, 22673
+[UPDATE-FAILED], Operations, 1576
+[UPDATE-FAILED], AverageLatency(us), 22459.65736040609
+[UPDATE-FAILED], MinLatency(us), 10272
+[UPDATE-FAILED], MaxLatency(us), 376575
+[UPDATE-FAILED], 95thPercentileLatency(us), 41471
+[UPDATE-FAILED], 99thPercentileLatency(us), 72383
+[CLEANUP], Operations, 100
+[CLEANUP], AverageLatency(us), 1.91
+[CLEANUP], MinLatency(us), 0
+[CLEANUP], MaxLatency(us), 13
+[CLEANUP], 95thPercentileLatency(us), 5
+[CLEANUP], 99thPercentileLatency(us), 5
+[UPDATE], Operations, 3469
+[UPDATE], AverageLatency(us), 10507.42490631306
+[UPDATE], MinLatency(us), 586
+[UPDATE], MaxLatency(us), 361215
+[UPDATE], 95thPercentileLatency(us), 40383
+[UPDATE], 99thPercentileLatency(us), 77247
+[UPDATE], Return=OK, 3469
+[UPDATE], Return=ERROR, 1576
+[READ-FAILED], Operations, 22673
+[READ-FAILED], AverageLatency(us), 21588.169717284876
+[READ-FAILED], MinLatency(us), 8968
+[READ-FAILED], MaxLatency(us), 387839
+[READ-FAILED], 95thPercentileLatency(us), 39391
+[READ-FAILED], 99thPercentileLatency(us), 65343
