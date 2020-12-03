@@ -156,7 +156,7 @@ public class HttpHandler extends AbstractHandler {
         if (keys.size() != values.size()) {
             throw new IllegalArgumentException("# of keys and values don't match");
         }
-
+        //System.out.println("put oper: key size = "+ keys.size() + "val size = "+ values.size());
         RocksDB db = manager.open(name);
         for (int i = 0; i < keys.size(); i++) {
             if (values.get(i) == null) {
