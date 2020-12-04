@@ -1,0 +1,170 @@
+
+C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver>"C:\Program Files\Java\jdk1.8.0_261\bin\java.exe"  -classpath "C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\conf;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\core\target\core-0.18.0-SNAPSHOT.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\core\target\dependency\HdrHistogram-2.1.4.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\core\target\dependency\htrace-core4-4.1.0-incubating.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\core\target\dependency\jackson-core-asl-1.9.4.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\core\target\dependency\jackson-mapper-asl-1.9.4.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\rocksdbserver\target\rocksdbserver-binding-0.18.0-SNAPSHOT.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\rocksdbserver\target\dependency\jcip-annotations-1.0.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\rocksdbserver\target\dependency\json-20190722.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\rocksdbserver\target\dependency\slf4j-api-1.7.25.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\rocksdbserver\target\dependency\slf4j-simple-1.7.25.jar" site.ycsb.Client -t -db site.ycsb.db.rocksdbserver.RocksDBServerClient -s -P workloads/workloadc -p operationcount=100000 -threads 8 
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+[OVERALL], RunTime(ms), 6470
+[OVERALL], Throughput(ops/sec), 15455.950540958269
+[TOTAL_GCS_PS_Scavenge], Count, 13
+[TOTAL_GC_TIME_PS_Scavenge], Time(ms), 84
+[TOTAL_GC_TIME_%_PS_Scavenge], Time(%), 1.2982998454404946
+[TOTAL_GCS_PS_MarkSweep], Count, 0
+[TOTAL_GC_TIME_PS_MarkSweep], Time(ms), 0
+[TOTAL_GC_TIME_%_PS_MarkSweep], Time(%), 0.0
+[TOTAL_GCs], Count, 13
+[TOTAL_GC_TIME], Time(ms), 84
+[TOTAL_GC_TIME_%], Time(%), 1.2982998454404946
+[READ], Operations, 100000
+[READ], AverageLatency(us), 470.24132
+[READ], MinLatency(us), 135
+[READ], MaxLatency(us), 109375
+[READ], 95thPercentileLatency(us), 772
+[READ], 99thPercentileLatency(us), 2235
+[READ], Return=OK, 100000
+[CLEANUP], Operations, 8
+[CLEANUP], AverageLatency(us), 4682.0
+[CLEANUP], MinLatency(us), 3752
+[CLEANUP], MaxLatency(us), 6131
+[CLEANUP], 95thPercentileLatency(us), 6131
+[CLEANUP], 99thPercentileLatency(us), 6131
+
+C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver>"C:\Program Files\Java\jdk1.8.0_261\bin\java.exe"  -classpath "C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\conf;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\core\target\core-0.18.0-SNAPSHOT.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\core\target\dependency\HdrHistogram-2.1.4.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\core\target\dependency\htrace-core4-4.1.0-incubating.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\core\target\dependency\jackson-core-asl-1.9.4.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\core\target\dependency\jackson-mapper-asl-1.9.4.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\rocksdbserver\target\rocksdbserver-binding-0.18.0-SNAPSHOT.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\rocksdbserver\target\dependency\jcip-annotations-1.0.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\rocksdbserver\target\dependency\json-20190722.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\rocksdbserver\target\dependency\slf4j-api-1.7.25.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\rocksdbserver\target\dependency\slf4j-simple-1.7.25.jar" site.ycsb.Client -t -db site.ycsb.db.rocksdbserver.RocksDBServerClient -s -P workloads/workloadc -p operationcount=100000 -threads 8 
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+[OVERALL], RunTime(ms), 6008
+[OVERALL], Throughput(ops/sec), 16644.474034620507
+[TOTAL_GCS_PS_Scavenge], Count, 13
+[TOTAL_GC_TIME_PS_Scavenge], Time(ms), 71
+[TOTAL_GC_TIME_%_PS_Scavenge], Time(%), 1.1817576564580559
+[TOTAL_GCS_PS_MarkSweep], Count, 0
+[TOTAL_GC_TIME_PS_MarkSweep], Time(ms), 0
+[TOTAL_GC_TIME_%_PS_MarkSweep], Time(%), 0.0
+[TOTAL_GCs], Count, 13
+[TOTAL_GC_TIME], Time(ms), 71
+[TOTAL_GC_TIME_%], Time(%), 1.1817576564580559
+[READ], Operations, 100000
+[READ], AverageLatency(us), 433.20309
+[READ], MinLatency(us), 144
+[READ], MaxLatency(us), 124543
+[READ], 95thPercentileLatency(us), 697
+[READ], 99thPercentileLatency(us), 1580
+[READ], Return=OK, 100000
+[CLEANUP], Operations, 8
+[CLEANUP], AverageLatency(us), 5517.375
+[CLEANUP], MinLatency(us), 3918
+[CLEANUP], MaxLatency(us), 9903
+[CLEANUP], 95thPercentileLatency(us), 9903
+[CLEANUP], 99thPercentileLatency(us), 9903
+
+C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver>"C:\Program Files\Java\jdk1.8.0_261\bin\java.exe"  -classpath "C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\conf;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\core\target\core-0.18.0-SNAPSHOT.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\core\target\dependency\HdrHistogram-2.1.4.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\core\target\dependency\htrace-core4-4.1.0-incubating.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\core\target\dependency\jackson-core-asl-1.9.4.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\core\target\dependency\jackson-mapper-asl-1.9.4.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\rocksdbserver\target\rocksdbserver-binding-0.18.0-SNAPSHOT.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\rocksdbserver\target\dependency\jcip-annotations-1.0.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\rocksdbserver\target\dependency\json-20190722.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\rocksdbserver\target\dependency\slf4j-api-1.7.25.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\rocksdbserver\target\dependency\slf4j-simple-1.7.25.jar" site.ycsb.Client -t -db site.ycsb.db.rocksdbserver.RocksDBServerClient -s -P workloads/workloadc -p operationcount=100000 -threads 8 
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+[OVERALL], RunTime(ms), 6124
+[OVERALL], Throughput(ops/sec), 16329.196603527107
+[TOTAL_GCS_PS_Scavenge], Count, 13
+[TOTAL_GC_TIME_PS_Scavenge], Time(ms), 73
+[TOTAL_GC_TIME_%_PS_Scavenge], Time(%), 1.1920313520574788
+[TOTAL_GCS_PS_MarkSweep], Count, 0
+[TOTAL_GC_TIME_PS_MarkSweep], Time(ms), 0
+[TOTAL_GC_TIME_%_PS_MarkSweep], Time(%), 0.0
+[TOTAL_GCs], Count, 13
+[TOTAL_GC_TIME], Time(ms), 73
+[TOTAL_GC_TIME_%], Time(%), 1.1920313520574788
+[READ], Operations, 100000
+[READ], AverageLatency(us), 442.76414
+[READ], MinLatency(us), 143
+[READ], MaxLatency(us), 73919
+[READ], 95thPercentileLatency(us), 704
+[READ], 99thPercentileLatency(us), 1980
+[READ], Return=OK, 100000
+[CLEANUP], Operations, 8
+[CLEANUP], AverageLatency(us), 5202.375
+[CLEANUP], MinLatency(us), 3880
+[CLEANUP], MaxLatency(us), 7607
+[CLEANUP], 95thPercentileLatency(us), 7607
+[CLEANUP], 99thPercentileLatency(us), 7607
+
+C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver>"C:\Program Files\Java\jdk1.8.0_261\bin\java.exe"  -classpath "C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\conf;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\core\target\core-0.18.0-SNAPSHOT.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\core\target\dependency\HdrHistogram-2.1.4.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\core\target\dependency\htrace-core4-4.1.0-incubating.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\core\target\dependency\jackson-core-asl-1.9.4.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\core\target\dependency\jackson-mapper-asl-1.9.4.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\rocksdbserver\target\rocksdbserver-binding-0.18.0-SNAPSHOT.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\rocksdbserver\target\dependency\jcip-annotations-1.0.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\rocksdbserver\target\dependency\json-20190722.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\rocksdbserver\target\dependency\slf4j-api-1.7.25.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\rocksdbserver\target\dependency\slf4j-simple-1.7.25.jar" site.ycsb.Client -t -db site.ycsb.db.rocksdbserver.RocksDBServerClient -s -P workloads/workloadc -p operationcount=100000 -threads 8 
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+[OVERALL], RunTime(ms), 5988
+[OVERALL], Throughput(ops/sec), 16700.066800267203
+[TOTAL_GCS_PS_Scavenge], Count, 13
+[TOTAL_GC_TIME_PS_Scavenge], Time(ms), 75
+[TOTAL_GC_TIME_%_PS_Scavenge], Time(%), 1.25250501002004
+[TOTAL_GCS_PS_MarkSweep], Count, 0
+[TOTAL_GC_TIME_PS_MarkSweep], Time(ms), 0
+[TOTAL_GC_TIME_%_PS_MarkSweep], Time(%), 0.0
+[TOTAL_GCs], Count, 13
+[TOTAL_GC_TIME], Time(ms), 75
+[TOTAL_GC_TIME_%], Time(%), 1.25250501002004
+[READ], Operations, 100000
+[READ], AverageLatency(us), 436.20608
+[READ], MinLatency(us), 151
+[READ], MaxLatency(us), 104895
+[READ], 95thPercentileLatency(us), 728
+[READ], 99thPercentileLatency(us), 1792
+[READ], Return=OK, 100000
+[CLEANUP], Operations, 8
+[CLEANUP], AverageLatency(us), 4536.25
+[CLEANUP], MinLatency(us), 3648
+[CLEANUP], MaxLatency(us), 6215
+[CLEANUP], 95thPercentileLatency(us), 6215
+[CLEANUP], 99thPercentileLatency(us), 6215
+
+C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver>"C:\Program Files\Java\jdk1.8.0_261\bin\java.exe"  -classpath "C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\conf;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\core\target\core-0.18.0-SNAPSHOT.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\core\target\dependency\HdrHistogram-2.1.4.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\core\target\dependency\htrace-core4-4.1.0-incubating.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\core\target\dependency\jackson-core-asl-1.9.4.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\core\target\dependency\jackson-mapper-asl-1.9.4.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\rocksdbserver\target\rocksdbserver-binding-0.18.0-SNAPSHOT.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\rocksdbserver\target\dependency\jcip-annotations-1.0.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\rocksdbserver\target\dependency\json-20190722.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\rocksdbserver\target\dependency\slf4j-api-1.7.25.jar;C:\Users\Harle\OneDrive\Desktop\school\cs550\rocksdbserver\rocksdbserver\target\dependency\slf4j-simple-1.7.25.jar" site.ycsb.Client -t -db site.ycsb.db.rocksdbserver.RocksDBServerClient -s -P workloads/workloadc -p operationcount=100000 -threads 8 
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+close error java.io.FileNotFoundException: http://localhost:8516/close
+[OVERALL], RunTime(ms), 6148
+[OVERALL], Throughput(ops/sec), 16265.452179570591
+[TOTAL_GCS_PS_Scavenge], Count, 13
+[TOTAL_GC_TIME_PS_Scavenge], Time(ms), 69
+[TOTAL_GC_TIME_%_PS_Scavenge], Time(%), 1.1223162003903708
+[TOTAL_GCS_PS_MarkSweep], Count, 0
+[TOTAL_GC_TIME_PS_MarkSweep], Time(ms), 0
+[TOTAL_GC_TIME_%_PS_MarkSweep], Time(%), 0.0
+[TOTAL_GCs], Count, 13
+[TOTAL_GC_TIME], Time(ms), 69
+[TOTAL_GC_TIME_%], Time(%), 1.1223162003903708
+[READ], Operations, 100000
+[READ], AverageLatency(us), 446.71267
+[READ], MinLatency(us), 136
+[READ], MaxLatency(us), 97215
+[READ], 95thPercentileLatency(us), 732
+[READ], 99thPercentileLatency(us), 1886
+[READ], Return=OK, 100000
+[CLEANUP], Operations, 8
+[CLEANUP], AverageLatency(us), 5426.75
+[CLEANUP], MinLatency(us), 3702
+[CLEANUP], MaxLatency(us), 7427
+[CLEANUP], 95thPercentileLatency(us), 7427
+[CLEANUP], 99thPercentileLatency(us), 7427

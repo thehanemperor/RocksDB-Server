@@ -23,3 +23,12 @@ output*
 # ignore standard Mac OS X files/dirs
 .DS_Store
 /differentbin/
+
+# Python Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
